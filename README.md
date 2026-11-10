@@ -1,6 +1,6 @@
 # RTU Research Intelligence for the SDGs
 
-An interactive, static HTML dashboard for Rizal Technological University, based on two uploaded Scopus CSV exports and a 30-slide presentation report. No server, backend, developer account, API key, or JavaScript library is needed.
+An interactive, static HTML dashboard for Rizal Technological University, based on uploaded Scopus CSV exports report. No server, backend, developer account, API key, or JavaScript library is needed.
 
 ## GitHub Pages: deployment in 6 steps
 
