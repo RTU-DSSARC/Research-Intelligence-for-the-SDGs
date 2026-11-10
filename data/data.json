@@ -1,0 +1,4165 @@
+{
+  "scopusData": {
+    "export": "Uploaded RTU Scopus Publications 2019-2026.csv",
+    "publicationExportRange": "2021–2026",
+    "snapshot": "User-supplied Scopus exports, uploaded November 2026; export timestamp not independently provided",
+    "tagging": "Analyst-curated, indicative, primarily title-based multi-label SDG thematic mapping with selective abstract review; NOT official Scopus//UN SDG attribution",
+    "scopusRecords": 109,
+    "authorRosterRows": 113,
+    "dataMismatch": "CSV and presentation are distinct unreconciled snapshots. Figures are not interchangeable."
+  },
+  "sdgs": [
+    {
+      "id": 1,
+      "name": "No Poverty",
+      "color": "#E5243B"
+    },
+    {
+      "id": 2,
+      "name": "Zero Hunger",
+      "color": "#DDA63A"
+    },
+    {
+      "id": 3,
+      "name": "Good Health and Well-being",
+      "color": "#4C9F38"
+    },
+    {
+      "id": 4,
+      "name": "Quality Education",
+      "color": "#C5192D"
+    },
+    {
+      "id": 5,
+      "name": "Gender Equality",
+      "color": "#FF3A21"
+    },
+    {
+      "id": 6,
+      "name": "Clean Water and Sanitation",
+      "color": "#26BDE2"
+    },
+    {
+      "id": 7,
+      "name": "Affordable and Clean Energy",
+      "color": "#FCC30B"
+    },
+    {
+      "id": 8,
+      "name": "Decent Work and Economic Growth",
+      "color": "#A21942"
+    },
+    {
+      "id": 9,
+      "name": "Industry, Innovation and Infrastructure",
+      "color": "#FD6925"
+    },
+    {
+      "id": 10,
+      "name": "Reduced Inequalities",
+      "color": "#DD1367"
+    },
+    {
+      "id": 11,
+      "name": "Sustainable Cities and Communities",
+      "color": "#FD9D24"
+    },
+    {
+      "id": 12,
+      "name": "Responsible Consumption and Production",
+      "color": "#BF8B2E"
+    },
+    {
+      "id": 13,
+      "name": "Climate Action",
+      "color": "#3F7E44"
+    },
+    {
+      "id": 14,
+      "name": "Life Below Water",
+      "color": "#0A97D9"
+    },
+    {
+      "id": 15,
+      "name": "Life on Land",
+      "color": "#56C02B"
+    },
+    {
+      "id": 16,
+      "name": "Peace, Justice and Strong Institutions",
+      "color": "#00689D"
+    },
+    {
+      "id": 17,
+      "name": "Partnerships for the Goals",
+      "color": "#19486A"
+    }
+  ],
+  "publications": [
+    {
+      "id": "2-s2.0-105043567445",
+      "title": "Nutrient management strategy with optimum application regime in the globally farmed red seaweed Kappaphycus alvarezii enhances biomass production without compromising hydrocolloid yield and quality",
+      "year": 2026,
+      "source": "Algal Research",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1016/j.algal.2026.104812",
+      "url": "https://doi.org/10.1016/j.algal.2026.104812",
+      "authorIds": [
+        "57218551595",
+        "57195983529",
+        "56033383200"
+      ],
+      "authors": [
+        "Narvarte B.C.V.",
+        "Genovia T.G.T.",
+        "Roleda M.Y."
+      ],
+      "sdgs": [
+        2,
+        12,
+        14
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85212400388",
+      "title": "Mapping Rice Paddy Areas in Nueva Ecija Using Temporal Sentinel -1 SAR Imagery",
+      "year": 2024,
+      "source": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "type": "Conference paper",
+      "citations": 2,
+      "openAccess": true,
+      "doi": "10.5194/isprs-annals-X-5-2024-41-2024",
+      "url": "https://doi.org/10.5194/isprs-annals-X-5-2024-41-2024",
+      "authorIds": [
+        "59220611300",
+        "59477759800",
+        "59478311900",
+        "59478205300",
+        "59478094300",
+        "59478312000",
+        "59477759900",
+        "56811715600"
+      ],
+      "authors": [
+        "Cueto J.R.",
+        "Allard J.M.",
+        "Obras J.M.",
+        "De Asis A.M.",
+        "Galut A.",
+        "Dayrit R.",
+        "Tandoc J.A.",
+        "Purio M.A."
+      ],
+      "sdgs": [
+        2
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85196616414",
+      "title": "Beliefs, Practices, and Challenges of Integrating Multimodality in Science in the New Normal",
+      "year": 2024,
+      "source": "Recoletos Multidisciplinary Research Journal",
+      "type": "Article",
+      "citations": 2,
+      "openAccess": true,
+      "doi": "10.32871/rmrj2412.01.08",
+      "url": "https://doi.org/10.32871/rmrj2412.01.08",
+      "authorIds": [
+        "59182668400",
+        "59183461600",
+        "16417465600"
+      ],
+      "authors": [
+        "Magnaye L., Jr.",
+        "Bustarde J.",
+        "Orleans A."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044625744",
+      "title": "Virtual Patients from the Learner's Perspective: A Convergent Parallel Mixed Method Study Utilizing Evaluation of Technology-enhanced Learning Materials",
+      "year": 2026,
+      "source": "Acta Medica Philippina",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.47895/amp.v60i13.13009",
+      "url": "https://doi.org/10.47895/amp.v60i13.13009",
+      "authorIds": [
+        "60035966000",
+        "60739030600",
+        "60739030700"
+      ],
+      "authors": [
+        "Mendoza R.D.",
+        "Reyes L.B.",
+        "Awayan-Lat A.D."
+      ],
+      "sdgs": [
+        3,
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105046824214",
+      "title": "Tracing Obscured AGN Contribution and Number Fraction Across 0 < z < 6 with JWST",
+      "year": 2026,
+      "source": "Publications of the Astronomical Society of the Pacific",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.1088/1538-3873/ae8d5a",
+      "url": "https://doi.org/10.1088/1538-3873/ae8d5a",
+      "authorIds": [
+        "60781333300",
+        "57151800100",
+        "57218278835",
+        "57218284891",
+        "24518043000",
+        "60301870300",
+        "57211849915",
+        "59732036300",
+        "57221011646",
+        "60249135000",
+        "58483566600"
+      ],
+      "authors": [
+        "Rodriguez Barbosa A.",
+        "Goto T.",
+        "Santos D.J.D.",
+        "Ling C.-T.",
+        "Hashimoto T.",
+        "Kilerci E.",
+        "Jalan P.",
+        "Phan T.L.",
+        "Senjaya D.",
+        "Rao V.V.V.",
+        "Salmasi B.S."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105044487818",
+      "title": "DEVELOPMENT AND EVALUATION OF H5P-BASED MATERIAL FOR TECHONOLOGY AND LIVELIHOOD EDUCATION (TLE) SPECIALIZED COURSES GUIDED BY THE ISO 9126 SOFTWARE QUALITY FRAMEWORK",
+      "year": 2026,
+      "source": "Turkish Online Journal of Distance Education",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.17718/tojde.1795382",
+      "url": "https://doi.org/10.17718/tojde.1795382",
+      "authorIds": [
+        "57283858600",
+        "60735452400",
+        "60735347200"
+      ],
+      "authors": [
+        "Garcia R.E.",
+        "Orig M.S.D.",
+        "Daguplo G.V."
+      ],
+      "sdgs": [
+        4,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105045724477",
+      "title": "Reproducing or resisting norms? Teacher feedback and the ideological boundaries of native-speakerism in World Englishes",
+      "year": 2026,
+      "source": "Critical Inquiry in Language Studies",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1080/15427587.2026.2708304",
+      "url": "https://doi.org/10.1080/15427587.2026.2708304",
+      "authorIds": [
+        "60758072000",
+        "57194178568"
+      ],
+      "authors": [
+        "Mangilaya V.M., II",
+        "Ulla M.B."
+      ],
+      "sdgs": [
+        4,
+        10
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159425222",
+      "title": "Business Technology and Innovation Research among Southeast Asian Countries: Examining Philippine Performance in Technoinnovation Research",
+      "year": 2022,
+      "source": "2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2022",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM57413.2022.10109275",
+      "url": "https://doi.org/10.1109/HNICEM57413.2022.10109275",
+      "authorIds": [
+        "58251851200",
+        "57219493889",
+        "58251851300"
+      ],
+      "authors": [
+        "Crisostomo L.C.",
+        "Guido R.M.D.",
+        "Villanueva M.A."
+      ],
+      "sdgs": [
+        9,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85158030931",
+      "title": "Ecological and health risks from heavy metal sources surrounding an abandoned mercury mine in the island paradise of Palawan, Philippines",
+      "year": 2023,
+      "source": "Heliyon",
+      "type": "Article",
+      "citations": 11,
+      "openAccess": true,
+      "doi": "10.1016/j.heliyon.2023.e15713",
+      "url": "https://doi.org/10.1016/j.heliyon.2023.e15713",
+      "authorIds": [
+        "57202367516",
+        "57216802098",
+        "58235433000",
+        "56011024300"
+      ],
+      "authors": [
+        "Diwa R.R.",
+        "Deocaris C.C.",
+        "Geraldo L.D.",
+        "Belo L.P."
+      ],
+      "sdgs": [
+        3,
+        12,
+        15
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85139003365",
+      "title": "Assessment of heavy metal levels in an urban river in the Philippines using an unconstrained ordination- And GIS-based approach: evidence of the return of past pollution after the 2013 Typhoon Haiyan (Yolanda)",
+      "year": 2022,
+      "source": "H2Open Journal",
+      "type": "Article",
+      "citations": 5,
+      "openAccess": true,
+      "doi": "10.2166/h2oj.2022.012",
+      "url": "https://doi.org/10.2166/h2oj.2022.012",
+      "authorIds": [
+        "57216802098",
+        "57202367516",
+        "57374415700"
+      ],
+      "authors": [
+        "Deocaris C.C.",
+        "Diwa R.R.",
+        "Tucio P.B."
+      ],
+      "sdgs": [
+        6,
+        3,
+        14
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105000710045",
+      "title": "How passion fuels student athletes? A Dualistic model approach to engagement in sports",
+      "year": 2025,
+      "source": "Physical Culture and Sport, Studies and Research",
+      "type": "Article",
+      "citations": 4,
+      "openAccess": true,
+      "doi": "10.2478/pcssr-2025-0014",
+      "url": "https://doi.org/10.2478/pcssr-2025-0014",
+      "authorIds": [
+        "59504441900",
+        "59504870800",
+        "58187127300",
+        "58041091300",
+        "59505505400",
+        "59504869900",
+        "57209398940",
+        "58992182300",
+        "58640251600"
+      ],
+      "authors": [
+        "Longakit J.C.",
+        "Rodriguez D.R.",
+        "Tagare R.L.",
+        "Gula L.P.",
+        "Sinag J.M.D.",
+        "Quibral J.P.",
+        "Camarador R.A.",
+        "Panganiban T.D.",
+        "Lobo J."
+      ],
+      "sdgs": [
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159756941",
+      "title": "Classifying a frequently repeating fast radio burst, FRB 20201124A, with unsupervised machine learning",
+      "year": 2023,
+      "source": "Monthly Notices of the Royal Astronomical Society",
+      "type": "Article",
+      "citations": 10,
+      "openAccess": true,
+      "doi": "10.1093/mnras/stad930",
+      "url": "https://doi.org/10.1093/mnras/stad930",
+      "authorIds": [
+        "57221833663",
+        "24518043000",
+        "57151800100",
+        "57782698500",
+        "57783030000",
+        "57070819300",
+        "57218282309",
+        "57216812477"
+      ],
+      "authors": [
+        "Chen B.H.",
+        "Hashimoto T.",
+        "Goto T.",
+        "Raquel B.J.R.",
+        "Uno Y.",
+        "Kim S.J.",
+        "Hsiao T.Y.-Y.",
+        "Ho S.C.-C."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85214425193",
+      "title": "Driven by grit, inspired by curiosity: Enhancing students’ academic engagement in Physical Education in the higher education system; [Impulsados por la determinación, inspirados por la curiosidad: cómo mejorar el compromiso académico de los estudiantes en la educación física en el sistema de educación superior]",
+      "year": 2025,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 5,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2025.11.1.11204",
+      "url": "https://doi.org/10.17979/sportis.2025.11.1.11204",
+      "authorIds": [
+        "58640251600",
+        "57189092165",
+        "58992182300",
+        "57209398940",
+        "59504869900",
+        "59504441900",
+        "59505288200",
+        "59504870800",
+        "58187127300",
+        "58642430000",
+        "59504652900"
+      ],
+      "authors": [
+        "Lobo J.",
+        "Balahadia F.F.",
+        "Panganiban T.D.",
+        "Camarador R.A.",
+        "Quibral J.P.",
+        "Longakit J.C.",
+        "Mondido C.A.",
+        "Rodriguez D.R.",
+        "Tagare R.L., Jr.",
+        "Celestial E.F.",
+        "Payumo A.S."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85211623075",
+      "title": "Base Isolation System in Essential Facilities: A Literature Review",
+      "year": 2025,
+      "source": "Lecture Notes in Civil Engineering",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1007/978-981-97-7766-2_9",
+      "url": "https://doi.org/10.1007/978-981-97-7766-2_9",
+      "authorIds": [
+        "59467119000",
+        "59210663000"
+      ],
+      "authors": [
+        "Diaz J.P.P.",
+        "Cruz O.G.D."
+      ],
+      "sdgs": [
+        11,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105034469781",
+      "title": "Smart Human Resource Development Using Artificial Intelligence for Personalized Employee Training and Performance Optimization",
+      "year": 2025,
+      "source": "Proceedings of 2025 10th International Conference on Science Technology, Engineering and Mathematics, ICONSTEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/ICONSTEM65670.2025.11374811",
+      "url": "https://doi.org/10.1109/ICONSTEM65670.2025.11374811",
+      "authorIds": [
+        "60549227600",
+        "60927356100",
+        "60221893700",
+        "60549464400",
+        "57260774300",
+        "60549533600"
+      ],
+      "authors": [
+        "Pratusha D.L.",
+        "Bose D.",
+        "Mokashi S.P.",
+        "Vyas A.M.",
+        "Tabuena A.C.",
+        "Tabuena A."
+      ],
+      "sdgs": [
+        8,
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105010261282",
+      "title": "Discipline in practice and study: A cross-sectional study on grit and academic engagement in combat sport athletes; [Disciplina en la práctica y el estudio: un estudio transversal sobre la determinación y el compromiso académico en atletas de deportes de combate]",
+      "year": 2025,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2025.11.3.11651",
+      "url": "https://doi.org/10.17979/sportis.2025.11.3.11651",
+      "authorIds": [
+        "59504441900",
+        "58640251600",
+        "59504870800",
+        "58187127300",
+        "58992182300",
+        "59505505400",
+        "58041091300",
+        "57779649100",
+        "57217864864",
+        "59504869900",
+        "59505288200",
+        "58812903300"
+      ],
+      "authors": [
+        "Longakit J.C.",
+        "Lobo J.",
+        "Rodriguez D.",
+        "Tagare R., Jr.",
+        "Panganiban T.",
+        "Sinag J.M.",
+        "Gula L.",
+        "Geantă V.A.",
+        "Gazali N.",
+        "Quibral J.",
+        "Mondido C.A.",
+        "Aquino J.M."
+      ],
+      "sdgs": [
+        4,
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105005122779",
+      "title": "The effect of a 4-week plyometric training exercise on specific physical fitness components in U21 novice volleyball players",
+      "year": 2025,
+      "source": "Pedagogy of Physical Culture and Sports",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": true,
+      "doi": "10.15561/26649837.2025.0202",
+      "url": "https://doi.org/10.15561/26649837.2025.0202",
+      "authorIds": [
+        "59504441900",
+        "59733879800",
+        "59732616200",
+        "58640251600",
+        "57537497000",
+        "59896672300",
+        "59896513900",
+        "59896672400",
+        "59505288200",
+        "59505505400",
+        "57779649100",
+        "58762038000"
+      ],
+      "authors": [
+        "Longakit J.",
+        "Aque F.M., Jr.",
+        "Toring-Aque L.",
+        "Lobo J.",
+        "Ayubi N.",
+        "Mamon R.",
+        "Coming L.",
+        "Padilla D.K.",
+        "Mondido C.A.",
+        "Sinag J.M.",
+        "Geanta V.A.",
+        "Sanjaykumar S."
+      ],
+      "sdgs": [
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105032075745",
+      "title": "Next-Generation Hemostasis: Synthetic Hemorrhage Control Solutions for Long-Duration Spaceflight",
+      "year": 2025,
+      "source": "Proceedings of the International Astronautical Congress, IAC",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.52202/083074-0008",
+      "url": "https://doi.org/10.52202/083074-0008",
+      "authorIds": [
+        "58943011900",
+        "60439230900"
+      ],
+      "authors": [
+        "Dumlupinar T.",
+        "Alcantara M."
+      ],
+      "sdgs": [
+        3,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044263792",
+      "title": "Mapping Sustainable Business and Industry Practices: A Scientometric and Machine Learning Clustering Thematic Analysis",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569252",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569252",
+      "authorIds": [
+        "57219493889",
+        "60728658100",
+        "60728889900",
+        "60728658200",
+        "60728538500",
+        "60728538600",
+        "60728717100"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Zantua J.P., III",
+        "Gabog S.A.R.",
+        "Garrote D.F.",
+        "Pasion J.-R.D.",
+        "Pelagio M.B.",
+        "Tivoli M.J.L."
+      ],
+      "sdgs": [
+        12,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105013055950",
+      "title": "Design of Green Wall System Beside Roadways Featuring Polymethyl Methacrylate (PMMA) and Sweet Potato (Ipomoea Batatas): A Sustainable Approach to Reduce Particulate Matter (PM) and Cement Mortar Utilization",
+      "year": 2025,
+      "source": "Lecture Notes in Civil Engineering",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1007/978-981-96-8990-3_20",
+      "url": "https://doi.org/10.1007/978-981-96-8990-3_20",
+      "authorIds": [
+        "60038986800",
+        "60039396800",
+        "60038845500",
+        "60038709900",
+        "60039263800",
+        "60039396900",
+        "60039397000",
+        "60039263900"
+      ],
+      "authors": [
+        "Prado R.C.G.",
+        "Paglomutan R.D.",
+        "Orbon J.V.",
+        "Bejo M.C.",
+        "Anthony P.P.F., Jr.",
+        "Mendoza J.F.",
+        "Andres S.M.T.",
+        "Gotoman L.R."
+      ],
+      "sdgs": [
+        11,
+        12
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044235358",
+      "title": "Exploring Engineering Education in the Philippines: A Scientometric and Machine Learning Analysis",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569241",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569241",
+      "authorIds": [
+        "57219493889",
+        "57697346900",
+        "60728756600",
+        "60395034400",
+        "60395542800"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Kalaw J.B.",
+        "Bravo C.R.",
+        "Rey A.N.",
+        "Punzalan J.G."
+      ],
+      "sdgs": [
+        4,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85120900425",
+      "title": "Evaluating radiation risks and resource opportunities associated with phosphogypsum in the Philippines",
+      "year": 2022,
+      "source": "Journal of Radioanalytical and Nuclear Chemistry",
+      "type": "Article",
+      "citations": 28,
+      "openAccess": true,
+      "doi": "10.1007/s10967-021-08142-8",
+      "url": "https://doi.org/10.1007/s10967-021-08142-8",
+      "authorIds": [
+        "57202367516",
+        "56904159300",
+        "56904221200",
+        "56078541300",
+        "56161914300",
+        "56160686500",
+        "57202367167"
+      ],
+      "authors": [
+        "Diwa R.R.",
+        "Tabora E.U.",
+        "Palattao B.L.",
+        "Haneklaus N.H.",
+        "Vargas E.P.",
+        "Reyes R.Y.",
+        "Ramirez J.D."
+      ],
+      "sdgs": [
+        3,
+        12
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105051334699",
+      "title": "The Role of Culture in Oral Corrective Feedback Provision: Insights from Practices of Filipino L2 Teachers",
+      "year": 2026,
+      "source": "English Scholarship Beyond Borders",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "",
+      "url": "https://www.scopus.com/pages/publications/105051334699?origin=resultslist",
+      "authorIds": [
+        "60758072000",
+        "57200596143"
+      ],
+      "authors": [
+        "Mangilaya V.M.M., II",
+        "Genuino C."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030161791",
+      "title": "Exploring Civil Engineering Research in the Philippines: A Scientometric Investigation",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258684",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258684",
+      "authorIds": [
+        "57219493889",
+        "60395034400",
+        "57937196700",
+        "57374415700"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Rey A.N.",
+        "Bautista R.A.B.",
+        "Tucio P.B."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105041342616",
+      "title": "Suitability of Betaphycus gelatinus for future domestication",
+      "year": 2026,
+      "source": "Aquaculture Reports",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1016/j.aqrep.2026.103699",
+      "url": "https://doi.org/10.1016/j.aqrep.2026.103699",
+      "authorIds": [
+        "57218551595",
+        "57875241500",
+        "57225052248",
+        "58303019100",
+        "59530198700",
+        "59530149200",
+        "57225055654",
+        "56033383200"
+      ],
+      "authors": [
+        "Narvarte B.C.V.",
+        "Gonzaga S.M.C.",
+        "Hinaloc L.A.R.",
+        "Gacura J.R.L.",
+        "Mendoza E.M.",
+        "Aguilar R.T.",
+        "Crisostomo B.A.",
+        "Roleda M.Y."
+      ],
+      "sdgs": [
+        2,
+        14
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105046801501",
+      "title": "Teacher emotional support and student well-being in higher education: a sequential motivational process via need satisfaction and autonomous motivation",
+      "year": 2026,
+      "source": "Frontiers in Psychology",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.3389/fpsyg.2026.1851103",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1851103",
+      "authorIds": [
+        "60813234800",
+        "60813073900"
+      ],
+      "authors": [
+        "Liu W.",
+        "Zhao S."
+      ],
+      "sdgs": [
+        4,
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105028263996",
+      "title": "Perspective of Science Educators and Students on the Use of ChatGPT: A Study of Artificial Intelligence",
+      "year": 2025,
+      "source": "International Journal of Technology in Education and Science",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.46328/ijtes.649",
+      "url": "https://doi.org/10.46328/ijtes.649",
+      "authorIds": [
+        "57283858600",
+        "60346297200",
+        "60346018700",
+        "60285283800",
+        "60345607900",
+        "60346018800"
+      ],
+      "authors": [
+        "Garcia R.",
+        "Fojas J.G.",
+        "Formanes J.N.",
+        "Garcia D.",
+        "Habol C.",
+        "Orapa L."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85130281392",
+      "title": "Ionospheric Precursor Associated to the 2012 Sumatra Earthquake Observed over the Taiwan-Philippines Region using GNSS-TEC",
+      "year": 2021,
+      "source": "International Conference on Space Science and Communication, IconSpace",
+      "type": "Conference paper",
+      "citations": 2,
+      "openAccess": false,
+      "doi": "10.1109/IconSpace53224.2021.9768729",
+      "url": "https://doi.org/10.1109/IconSpace53224.2021.9768729",
+      "authorIds": [
+        "57374415700",
+        "6506168253",
+        "57219493889",
+        "57697346900",
+        "57697972100"
+      ],
+      "authors": [
+        "Tucio P.",
+        "MacAlalad E.",
+        "Guido R.M.",
+        "Kalaw J.",
+        "Divinagracia P.P."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85130261441",
+      "title": "Preliminary Analysis of Satellite Navigation Effects of the Strong Solar Flares during Solar Cycle 24",
+      "year": 2021,
+      "source": "International Conference on Space Science and Communication, IconSpace",
+      "type": "Conference paper",
+      "citations": 3,
+      "openAccess": false,
+      "doi": "10.1109/IconSpace53224.2021.9768696",
+      "url": "https://doi.org/10.1109/IconSpace53224.2021.9768696",
+      "authorIds": [
+        "57697972100",
+        "6506168253",
+        "57219493889",
+        "57374415700",
+        "57697346900"
+      ],
+      "authors": [
+        "Divinagracia P.P.",
+        "MacAlalad E.",
+        "Guido R.M.",
+        "Tucio P.",
+        "Kalaw J."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044243253",
+      "title": "Light Pollution Mapping and Its Implications for Astronomical Observatories",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569234",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569234",
+      "authorIds": [
+        "57374234500",
+        "57374415700",
+        "60395067500",
+        "60728823300"
+      ],
+      "authors": [
+        "Dela Cruz R.-A.B.",
+        "Tucio P.B.",
+        "Castillon F.A.G.",
+        "Abillar K.S."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85165931191",
+      "title": "Machine learning classification of repeating FRBs from FRB 121102",
+      "year": 2023,
+      "source": "Monthly Notices of the Royal Astronomical Society",
+      "type": "Article",
+      "citations": 7,
+      "openAccess": true,
+      "doi": "10.1093/mnras/stad1942",
+      "url": "https://doi.org/10.1093/mnras/stad1942",
+      "authorIds": [
+        "57782698500",
+        "24518043000",
+        "57151800100",
+        "57221833663",
+        "57783030000",
+        "57218282309",
+        "57070819300",
+        "57216812477"
+      ],
+      "authors": [
+        "Raquel B.J.R.",
+        "Hashimoto T.",
+        "Goto T.",
+        "Chen B.H.",
+        "Uno Y.",
+        "Hsiao T.Y.-Y.",
+        "Kim S.J.",
+        "Ho S.C.-C."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105023314066",
+      "title": "Darkest nights of the Marawi siege",
+      "year": 2025,
+      "source": "SciEnggJ",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.54645/202518SupAYA-78",
+      "url": "https://doi.org/10.54645/202518SupAYA-78",
+      "authorIds": [
+        "57697346900",
+        "57219493889"
+      ],
+      "authors": [
+        "Kalaw J.B.",
+        "Guido R.M.D."
+      ],
+      "sdgs": [
+        16,
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105034134526",
+      "title": "TEMPORAL ANALYSIS OF URBAN HEAT ISLAND TRENDS IN MAKATI (2020–2024): IMPLICATIONS FOR URBAN THERMAL DYNAMICS AND SUSTAINABILITY",
+      "year": 2025,
+      "source": "International Geoscience and Remote Sensing Symposium (IGARSS)  ",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/IGARSS55030.2025.11243744",
+      "url": "https://doi.org/10.1109/IGARSS55030.2025.11243744",
+      "authorIds": [
+        "56811715600",
+        "60538879300"
+      ],
+      "authors": [
+        "Purio M.A.C.",
+        "Cueto J.R."
+      ],
+      "sdgs": [
+        11,
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159472558",
+      "title": "Exploring Spratly Islands in using VIIRS Boat Detection Satellite Image Analytics",
+      "year": 2022,
+      "source": "2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2022",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM57413.2022.10109599",
+      "url": "https://doi.org/10.1109/HNICEM57413.2022.10109599",
+      "authorIds": [
+        "57219493889",
+        "58251782600"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Santos G.P.A."
+      ],
+      "sdgs": [
+        14,
+        16
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044208882",
+      "title": "Trends in Sustainable Business and Industry Practice: A Machine Learning-Driven Scientometric Study",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569232",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569232",
+      "authorIds": [
+        "57219493889",
+        "60728705100",
+        "60728823000",
+        "60728589400",
+        "60728936200",
+        "60728936300"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Opulencia K.Y.",
+        "Tria K.D.",
+        "Gabon D.C.L.",
+        "Juales E.B.",
+        "Villanueva K.A.S."
+      ],
+      "sdgs": [
+        12,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105035998737",
+      "title": "Promoting Analog Space Mission through Students for the Exploration and Development of Space Philippines (SEDS PH) Upskills Group Mentorship Program",
+      "year": 2025,
+      "source": "Proceedings of the International Astronautical Congress, IAC",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.52202/083097-0054",
+      "url": "https://doi.org/10.52202/083097-0054",
+      "authorIds": [
+        "57565897700",
+        "60587852200",
+        "60587189400",
+        "60587627600",
+        "56811715600",
+        "60586304300",
+        "60587627700",
+        "60586530000",
+        "60586304400",
+        "60586749900",
+        "57189026621"
+      ],
+      "authors": [
+        "Atienza K.J.S.",
+        "Subade I.S.",
+        "Lopez J.J.M.",
+        "Andeo L.L.",
+        "Purio M.A.",
+        "Castillo R.L.M.",
+        "Mahinay P.A.D.",
+        "Valencia E.S.G.",
+        "Tejoso M.G.I.V.",
+        "Dela Torre P.A.",
+        "Torres G.C."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105041198635",
+      "title": "Profiling SDG 4 Research in Southeast Asia: Developing a Comprehensive Research Metrics Model",
+      "year": 2026,
+      "source": "Journal of Scientometric Research",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.5530/jscires.20260043",
+      "url": "https://doi.org/10.5530/jscires.20260043",
+      "authorIds": [
+        "57219493889"
+      ],
+      "authors": [
+        "Guido R.M.D."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "explicit"
+    },
+    {
+      "id": "2-s2.0-85167659455",
+      "title": "Rare earths leaching from Philippine phosphogypsum using Taguchi method, regression, and artificial neural network analysis",
+      "year": 2023,
+      "source": "Journal of Material Cycles and Waste Management",
+      "type": "Article",
+      "citations": 18,
+      "openAccess": true,
+      "doi": "10.1007/s10163-023-01753-1",
+      "url": "https://doi.org/10.1007/s10163-023-01753-1",
+      "authorIds": [
+        "57202367516",
+        "56904159300",
+        "56078541300",
+        "57202367167"
+      ],
+      "authors": [
+        "Diwa R.R.",
+        "Tabora E.U.",
+        "Haneklaus N.H.",
+        "Ramirez J.D."
+      ],
+      "sdgs": [
+        12,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030167647",
+      "title": "N'synk: A Mixed-Use Urban Hub and Wellness Complex, Integration of Sensory Design Towards 'Reshaping Life in the City', Taguig City",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258720",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258720",
+      "authorIds": [
+        "60397805000",
+        "60397371200",
+        "60396058100"
+      ],
+      "authors": [
+        "Sumpingan H.S.",
+        "Sol K.F.J.",
+        "Vocal M.V."
+      ],
+      "sdgs": [
+        11,
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105037640636",
+      "title": "Nutritional profiling of 30 tropical marine macroalgae on an eastern Philippine coast: insights into macronutrient content",
+      "year": 2026,
+      "source": "Botanica Marina",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1515/bot-2025-0027",
+      "url": "https://doi.org/10.1515/bot-2025-0027",
+      "authorIds": [
+        "59303310900",
+        "57218551595",
+        "57225052248",
+        "59303921500",
+        "60611830300",
+        "58303019100",
+        "59530149200",
+        "59530198700",
+        "60611754700",
+        "60611754800",
+        "35241710800",
+        "56033383200"
+      ],
+      "authors": [
+        "Sindo E.L.",
+        "Narvarte B.C.V.",
+        "Hinaloc L.A.R.",
+        "Bigcas E.J.J.",
+        "Ongoda A.R.",
+        "Gacura J.R.L.",
+        "Aguilar R.T.",
+        "Mendoza E.M.",
+        "Maxion E.Y.I.",
+        "Catedrilla J.J.D.",
+        "Clores M.A.",
+        "Roleda M.Y."
+      ],
+      "sdgs": [
+        2,
+        14
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85116392127",
+      "title": "Integration of learning management system as an aid in teaching: An assessment",
+      "year": 2021,
+      "source": "European Journal of Educational Research",
+      "type": "Article",
+      "citations": 8,
+      "openAccess": true,
+      "doi": "10.12973/EU-JER.10.4.1907",
+      "url": "https://doi.org/10.12973/EU-JER.10.4.1907",
+      "authorIds": [
+        "57283858600",
+        "57283418400",
+        "57283418500"
+      ],
+      "authors": [
+        "Garcia R.E.",
+        "Abaratigue A.M.",
+        "Alcantara N.V."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030131762",
+      "title": "Evaluating the Publication of SDG6 Research in the Philippines: Assessing and Identifying Unaddressed Areas for Policy",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258789",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258789",
+      "authorIds": [
+        "57219493889",
+        "60026859400",
+        "57697346900",
+        "60396817900"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Quendangan M.M.",
+        "Kalaw J.B.",
+        "Pagaura J.J."
+      ],
+      "sdgs": [
+        6
+      ],
+      "sdgBasis": "explicit"
+    },
+    {
+      "id": "2-s2.0-85204475664",
+      "title": "Design, Development, and Implementation of the VLAFC Model: Improving Students' Cognition, Engagement, and Self-Regulation",
+      "year": 2024,
+      "source": "ACM International Conference Proceeding Series",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1145/3670013.3670047",
+      "url": "https://doi.org/10.1145/3670013.3670047",
+      "authorIds": [
+        "58968906900",
+        "26424764400"
+      ],
+      "authors": [
+        "Sablan J.R.B.",
+        "Roleda L.S."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159456904",
+      "title": "Research Productivity as Performance Dynamics of PISA among Southeast Asian Countries",
+      "year": 2022,
+      "source": "2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2022",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM57413.2022.10109453",
+      "url": "https://doi.org/10.1109/HNICEM57413.2022.10109453",
+      "authorIds": [
+        "57219493889",
+        "57224003959"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Mangali G.R."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85145678473",
+      "title": "Heavy Metal Pollution in Soil and Surface Sediments of Meycauayan River, Philippines and Their Relationship to Environmental Indicators",
+      "year": 2023,
+      "source": "Soil and Sediment Contamination",
+      "type": "Article",
+      "citations": 13,
+      "openAccess": true,
+      "doi": "10.1080/15320383.2022.2163976",
+      "url": "https://doi.org/10.1080/15320383.2022.2163976",
+      "authorIds": [
+        "57202367516",
+        "57216802098",
+        "25922503700",
+        "36068989100",
+        "6602868039",
+        "23767787200",
+        "56011024300"
+      ],
+      "authors": [
+        "Diwa R.R.",
+        "Deocaris C.C.",
+        "Orbecido A.H.",
+        "Beltran A.B.",
+        "Vallar E.A.",
+        "Galvez M.C.D.",
+        "Belo L.P."
+      ],
+      "sdgs": [
+        6,
+        15
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85190259996",
+      "title": "Comparison of Precipitable Water Vapor and Sea Surface Temperature Anomalies Over the Tanay and Legazpi, Philippines from 2013 to 2022",
+      "year": 2024,
+      "source": "Springer Proceedings in Physics",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1007/978-981-97-0142-1_20",
+      "url": "https://doi.org/10.1007/978-981-97-0142-1_20",
+      "authorIds": [
+        "58983770600",
+        "57374415700",
+        "6506168253"
+      ],
+      "authors": [
+        "Bibaoco A.V.",
+        "Tucio P.",
+        "Macalalad E.P."
+      ],
+      "sdgs": [
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105033481610",
+      "title": "A Contextualized Scale Development in Assessing Management Information System Services in A Philippine State University",
+      "year": 2026,
+      "source": "International Online Journal of Education and Teaching",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "",
+      "url": "https://www.scopus.com/pages/publications/105033481610?origin=resultslist",
+      "authorIds": [
+        "58860103200",
+        "60519737200",
+        "60519468500",
+        "60406678600",
+        "60519643900"
+      ],
+      "authors": [
+        "Balbin S.",
+        "Abenes-Balbin F.M.D.",
+        "Verdadero E.C.",
+        "Villanueva J.A.",
+        "Fernandez M.M."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85214380024",
+      "title": "Interweaving perceived instructors’ emotional support and students’ academic resilience in the physical education context through the lens of mindset and attachment theories; [Entrelazando el apoyo emocional percibido de los instructores y la resiliencia académica de los estudiantes en el contexto de la educación física a través de la perspectiva de las teorías de la mentalidad y el apego]",
+      "year": 2025,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 9,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2025.11.1.11202",
+      "url": "https://doi.org/10.17979/sportis.2025.11.1.11202",
+      "authorIds": [
+        "58992182300",
+        "57209398940",
+        "58187127300",
+        "58640251600",
+        "59505505400",
+        "59504869900",
+        "59504441900",
+        "58041091300",
+        "59504229300",
+        "59504229400",
+        "59505076000",
+        "59504652900"
+      ],
+      "authors": [
+        "Panganiban T.D.",
+        "Camarador R.A.",
+        "Tagare R.L., Jr.",
+        "Lobo J.",
+        "Sinag J.M.D.",
+        "Quibral J.P.",
+        "Longakit J.C.",
+        "Gula L.P.",
+        "Santos J.E.",
+        "San Miguel M.H.",
+        "Mendoza D.M.",
+        "Payumo A.S."
+      ],
+      "sdgs": [
+        4,
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044195296",
+      "title": "Seven Years of Space Weather Research",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569197",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569197",
+      "authorIds": [
+        "57697346900",
+        "57219493889",
+        "57374415700",
+        "60728823300",
+        "57208104796"
+      ],
+      "authors": [
+        "Kalaw J.",
+        "Guido R.M.",
+        "Tucio P.",
+        "Abillar K.",
+        "Gabuya A."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105030198519",
+      "title": "The Impact of Rainfall and Temperature on Sugarcane Production in Negros Occidental",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258827",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258827",
+      "authorIds": [
+        "57374415700",
+        "60395067500"
+      ],
+      "authors": [
+        "Tucio P.B.",
+        "Castillon F.A.G."
+      ],
+      "sdgs": [
+        2,
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044276880",
+      "title": "Research Trends of Biophysics Research: A Visual Scientometric Investigation",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569273",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569273",
+      "authorIds": [
+        "57219493889",
+        "57697346900",
+        "60397670600",
+        "60395067500",
+        "59476471700"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Kalaw J.B.",
+        "Ayuste C.L.C.",
+        "Castillon F.A.G.",
+        "Pelgone A.J.O."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105050502823",
+      "title": "Sacred Burnout: A Conceptual Analysis of Religious Coping Fatigue Among Healthcare Workers in the Philippines",
+      "year": 2026,
+      "source": "Journal of Religion and Health",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1007/s10943-026-02792-2",
+      "url": "https://doi.org/10.1007/s10943-026-02792-2",
+      "authorIds": [
+        "60201406800",
+        "60201808100",
+        "60883067200"
+      ],
+      "authors": [
+        "Manlapas O.R.",
+        "Tianio J.S.",
+        "Santiago E.A."
+      ],
+      "sdgs": [
+        3,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85127254758",
+      "title": "Membership and age determination of M67 open cluster using GAIA EDR3 data",
+      "year": 2022,
+      "source": "Journal of Physics: Conference Series",
+      "type": "Conference paper",
+      "citations": 6,
+      "openAccess": true,
+      "doi": "10.1088/1742-6596/2214/1/012009",
+      "url": "https://doi.org/10.1088/1742-6596/2214/1/012009",
+      "authorIds": [
+        "57555060100",
+        "60770267000",
+        "57374415700",
+        "57209580433"
+      ],
+      "authors": [
+        "Ghosh E.M.",
+        "Sulistiyowati",
+        "Tucio P.",
+        "Fajrin M."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85153866125",
+      "title": "The Abrupt Shift to Online Learning During the Pandemic: Focus on Teachers’ Experiences and Perspectives",
+      "year": 2023,
+      "source": "European Journal of Educational Research",
+      "type": "Article",
+      "citations": 2,
+      "openAccess": true,
+      "doi": "10.12973/eu-jer.12.2.947",
+      "url": "https://doi.org/10.12973/eu-jer.12.2.947",
+      "authorIds": [
+        "57283858600",
+        "58202665600",
+        "58202424900"
+      ],
+      "authors": [
+        "Garcia R.E.",
+        "Delos Santos A.R.",
+        "Buraga J.F."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030181376",
+      "title": "Species Diversity, Community Structure and Allometry of Mangrove Ecosystem in Calatagan, Batangas, Philippines",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258835",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258835",
+      "authorIds": [
+        "60397670600",
+        "57374415700",
+        "57219493889",
+        "57260757000",
+        "60395072400",
+        "60041339200",
+        "60397238000",
+        "60397675100",
+        "60394626700",
+        "60397675200",
+        "60395498100",
+        "60208222400",
+        "58572106600"
+      ],
+      "authors": [
+        "Ayuste C.L.C.",
+        "Tucio P.B.",
+        "Guido R.M.D.",
+        "Malay C.A.",
+        "Nepomuceno R.E.",
+        "Parmis C.B.",
+        "Laggui Z.K.C.",
+        "Lirag F.B.",
+        "Basaca C.W.",
+        "Mercado E.O.",
+        "Lacson R.J.",
+        "Lacson L.C.",
+        "Querijero B.L."
+      ],
+      "sdgs": [
+        14,
+        15
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85123716668",
+      "title": "Exploring the links between Physics and Astronomy education teaching and learning in the Philippines",
+      "year": 2022,
+      "source": "Journal of Physics: Conference Series",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.1088/1742-6596/2145/1/012073",
+      "url": "https://doi.org/10.1088/1742-6596/2145/1/012073",
+      "authorIds": [
+        "57219493889",
+        "16417465600"
+      ],
+      "authors": [
+        "Guido R.M.",
+        "Orleans A."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105043647939",
+      "title": "Integrating Hybrid Pre-Processing Strategies to Optimize Classification Algorithm Performance",
+      "year": 2026,
+      "source": "2026 14th International Conference on Information and Education Technology, ICIET 2026",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/ICIET69664.2026.11561602",
+      "url": "https://doi.org/10.1109/ICIET69664.2026.11561602",
+      "authorIds": [
+        "58489540500",
+        "60721079700",
+        "60720832100",
+        "60720499300",
+        "60395506200",
+        "60406678600"
+      ],
+      "authors": [
+        "Sabonsolin J.A.",
+        "Buhayang J.",
+        "Cabrera C.I.",
+        "Roldan E.M.",
+        "Doctor P.I.",
+        "Villanueva J.A."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105022097926",
+      "title": "From theory to practice: pre-service teacher transitions in hybrid flexible learning internships; [De la teoría a la práctica: transiciones de profesores en formación en prácticas híbridas de aprendizaje flexible]",
+      "year": 2025,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2025.11.4.11684",
+      "url": "https://doi.org/10.17979/sportis.2025.11.4.11684",
+      "authorIds": [
+        "59505288200",
+        "59504869900"
+      ],
+      "authors": [
+        "Mondido C.A.",
+        "Quibral J."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85124283121",
+      "title": "Factors that influence students’ learning progress in the science spiral progression curriculum",
+      "year": 2021,
+      "source": "Journal of Curriculum Studies Research",
+      "type": "Review",
+      "citations": 12,
+      "openAccess": true,
+      "doi": "10.46303/jcsr.2020.5",
+      "url": "https://doi.org/10.46303/jcsr.2020.5",
+      "authorIds": [
+        "57283858600"
+      ],
+      "authors": [
+        "Garcia R.E."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030198995",
+      "title": "Modeling the Research Performance of Philippine SDG4: Analyzing Trends and Impact in Education for Sustainable Development",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258636",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258636",
+      "authorIds": [
+        "57219493889",
+        "60026859400",
+        "60395922900"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Quendangan M.M.",
+        "Villavicencio J.-A.F."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "explicit"
+    },
+    {
+      "id": "2-s2.0-85171871928",
+      "title": "MABEL COOK COLE’S PHILIPPINE FOLK TALES: AN ETHNOASTRONOMICAL ANALYSIS",
+      "year": 2022,
+      "source": "Journal of Astronomical History and Heritage",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.3724/SP.J.1440-2807.2022.02.06",
+      "url": "https://doi.org/10.3724/SP.J.1440-2807.2022.02.06",
+      "authorIds": [
+        "57374234500",
+        "6602927921",
+        "57937196700",
+        "57374415700",
+        "58611931300",
+        "57219493889"
+      ],
+      "authors": [
+        "Dela Cruz R.A.B.",
+        "Orchiston W.",
+        "Bautista R.A.B.",
+        "Tucio P.B.",
+        "Torres J.R.F.",
+        "Guido R.M.D."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85198666738",
+      "title": "IDENTIFICATION OF PATTERNS OF THERMAL UNREST IN TAAL VOLCANO USING REMOTE SENSING",
+      "year": 2024,
+      "source": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.5194/isprs-archives-XLVIII-4-W8-2023-135-2024",
+      "url": "https://doi.org/10.5194/isprs-archives-XLVIII-4-W8-2023-135-2024",
+      "authorIds": [
+        "59220611300",
+        "59220054200",
+        "59220285500"
+      ],
+      "authors": [
+        "Cueto J.R.",
+        "Quillope A.H.",
+        "Alabado M.E.Y."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85121240350",
+      "title": "Review of potential astronomical optical observatory sites in the Philippines",
+      "year": 2021,
+      "source": "IOP Conference Series: Earth and Environmental Science",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1088/1755-1315/880/1/012008",
+      "url": "https://doi.org/10.1088/1755-1315/880/1/012008",
+      "authorIds": [
+        "57374234500",
+        "57374415700"
+      ],
+      "authors": [
+        "Dela Cruz R.A.B.",
+        "Tucio P."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85131813213",
+      "title": "Transport of toxic metals in the bottom sediments and health risk assessment of Corbicula fluminea (Asiatic clam) collected from Laguna de Bay, Philippines",
+      "year": 2022,
+      "source": "Science of the Total Environment",
+      "type": "Article",
+      "citations": 25,
+      "openAccess": false,
+      "doi": "10.1016/j.scitotenv.2022.156522",
+      "url": "https://doi.org/10.1016/j.scitotenv.2022.156522",
+      "authorIds": [
+        "57202367516",
+        "57218144510",
+        "57216802098",
+        "55499106200",
+        "56011024300"
+      ],
+      "authors": [
+        "Diwa R.R.",
+        "Elvira M.V.",
+        "Deocaris C.C.",
+        "Fukuyama M.",
+        "Belo L.P."
+      ],
+      "sdgs": [
+        3,
+        6,
+        14
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105027772535",
+      "title": "Culturally sensitive Physical Education: perspectives of Muslim female students in public schools; [Educación Física culturalmente sensible: perspectivas de alumnas musulmanas en escuelas públicas]",
+      "year": 2026,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2026.12.1.12147",
+      "url": "https://doi.org/10.17979/sportis.2026.12.1.12147",
+      "authorIds": [
+        "59504869900",
+        "60337934200"
+      ],
+      "authors": [
+        "Quibral J.P.",
+        "Fabriquel B."
+      ],
+      "sdgs": [
+        4,
+        5,
+        10
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030212990",
+      "title": "Predictive Analysis in Biotechnology Research in the Philippines: Towards Model Development",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258612",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258612",
+      "authorIds": [
+        "57219493889",
+        "60397670600",
+        "57297774200"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Ayuste C.L.C.",
+        "Ayuste T.O.D."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-86000113154",
+      "title": "History and Habitability of the LP 890-9 Planetary System",
+      "year": 2025,
+      "source": "Planetary Science Journal",
+      "type": "Article",
+      "citations": 4,
+      "openAccess": true,
+      "doi": "10.3847/PSJ/ad94dc",
+      "url": "https://doi.org/10.3847/PSJ/ad94dc",
+      "authorIds": [
+        "12752835000",
+        "57574741300",
+        "57216754777",
+        "6507190607",
+        "57062030000",
+        "58846774700",
+        "57202120156",
+        "55464220900",
+        "57202438355",
+        "57211116658",
+        "57214829704",
+        "57221279640",
+        "57190184152",
+        "59608295500",
+        "57547517300",
+        "58994486900",
+        "59487456900",
+        "25723157000",
+        "7006711679",
+        "43361238200",
+        "57203170036",
+        "57468870800",
+        "56505480200",
+        "60120828100",
+        "57191504018",
+        "57193184809",
+        "57223996406",
+        "57761148900",
+        "59487533500",
+        "59487457000",
+        "57217531330",
+        "58318182700",
+        "59487569000",
+        "59487647500",
+        "57217238451",
+        "59487569100",
+        "59487608400",
+        "57209618092",
+        "36722283700",
+        "59487684100",
+        "59487608500",
+        "55348328200",
+        "59487533600",
+        "59487647600",
+        "59487720000"
+      ],
+      "authors": [
+        "Barnes R.",
+        "do Amaral L.N.R.",
+        "Birky J.",
+        "Carone L.",
+        "Driscoll P.",
+        "Livesey J.R.",
+        "Graham D.",
+        "Becker J.",
+        "Cui K.",
+        "Schlecker M.",
+        "Garcia R.",
+        "Gialluca M.",
+        "Adams A.",
+        "Ahmed M.R.",
+        "Bonney P.",
+        "Broussard W.",
+        "Chawla C.",
+        "Damasso M.",
+        "Danchi W.C.",
+        "Deitrick R.",
+        "Ducrot E.",
+        "Fromont E.F.",
+        "Gaches B.A.L.",
+        "Gupta S.",
+        "Hill M.L.",
+        "Jackman J.A.G.",
+        "Janin E.M.",
+        "Karawacki M.",
+        "Koren M.D.",
+        "Greca R.L.",
+        "Leung M.",
+        "Miranda-Rosete A.",
+        "Olohoy M.K.A.",
+        "Ngo C.",
+        "Paul D.",
+        "Sahu C.K.",
+        "Sarkar D.B.",
+        "Shadab M.A.",
+        "Schwieterman E.W.",
+        "Sedler M.",
+        "Texeira K.",
+        "Vazan A.",
+        "Delgado Vega K.N.",
+        "Vijayakumar R.",
+        "Wojack J.T."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85190288057",
+      "title": "Intercomparison of MODIS- and GNSS-Based Precipitable Water Vapor Over Manila, Philippines in 2015",
+      "year": 2024,
+      "source": "Springer Proceedings in Physics",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1007/978-981-97-0142-1_21",
+      "url": "https://doi.org/10.1007/978-981-97-0142-1_21",
+      "authorIds": [
+        "58983604800",
+        "57374415700",
+        "6506168253"
+      ],
+      "authors": [
+        "De Castro A.M.",
+        "Tucio P.",
+        "Macalalad E.P."
+      ],
+      "sdgs": [
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85213017359",
+      "title": "Project Severe Weather Archive of the Philippines (SWAP) Part 1: Establishing a Baseline Climatology for Severe Weather across the Philippine Archipelago",
+      "year": 2024,
+      "source": "Annals of Geophysics",
+      "type": "Article",
+      "citations": 7,
+      "openAccess": true,
+      "doi": "10.4401/ag-9151",
+      "url": "https://doi.org/10.4401/ag-9151",
+      "authorIds": [
+        "58482090200"
+      ],
+      "authors": [
+        "Capuli G.H."
+      ],
+      "sdgs": [
+        13,
+        11
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85140374733",
+      "title": "Influence of Total Solar Irradiance on Philippine Precipitation and Temperature from 1982 to 2019",
+      "year": 2022,
+      "source": "International Journal of Climate Change: Impacts and Responses",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.18848/1835-7156/CGP/V15I01/47-56",
+      "url": "https://doi.org/10.18848/1835-7156/CGP/V15I01/47-56",
+      "authorIds": [
+        "57937196700",
+        "57937783000",
+        "57937344800"
+      ],
+      "authors": [
+        "Bautista R.A.",
+        "Cortez A.K.",
+        "Lequiron J.C."
+      ],
+      "sdgs": [
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105026281231",
+      "title": "AI Chatbot Misuse in Education: Ethical and Pedagogical Risks",
+      "year": 2025,
+      "source": "Asten Journal of Teacher Education",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": true,
+      "doi": "10.56278/asten.vi.3283",
+      "url": "https://doi.org/10.56278/asten.vi.3283",
+      "authorIds": [
+        "60261642200",
+        "60261839600"
+      ],
+      "authors": [
+        "Gumiran I.C.",
+        "Ambida M.N."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105012411474",
+      "title": "The development and evaluation of a digital review material utilizing mobile application",
+      "year": 2025,
+      "source": "SciEnggJ",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.54645/202518SupHSO-98",
+      "url": "https://doi.org/10.54645/202518SupHSO-98",
+      "authorIds": [
+        "58860103200",
+        "60026859400",
+        "57283858600"
+      ],
+      "authors": [
+        "Balbin S.A.",
+        "Quendangan M.M.",
+        "Garcia R.E."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85160920055",
+      "title": "Investigation of open cluster NGC 7789 using GAIA EDR3 data",
+      "year": 2023,
+      "source": "IOP Conference Series: Earth and Environmental Science",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.1088/1755-1315/1167/1/012002",
+      "url": "https://doi.org/10.1088/1755-1315/1167/1/012002",
+      "authorIds": [
+        "57374415700",
+        "57219493889",
+        "57697346900"
+      ],
+      "authors": [
+        "Tucio P.B.",
+        "Guido R.M.D.",
+        "Kalaw J.B."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105033230189",
+      "title": "Analysis of Physics Mastery of First-Year Engineering Students in Force and Motion Conceptual Evaluation (FMCE) Using Cognitive Diagnosis Modeling",
+      "year": 2025,
+      "source": "TALE 2025 - 2025 IEEE International Conference on Teaching, Assessment, and Learning for Engineering, Proceedings",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/TALE66047.2025.11346721",
+      "url": "https://doi.org/10.1109/TALE66047.2025.11346721",
+      "authorIds": [
+        "60511293700"
+      ],
+      "authors": [
+        "Lampara E.C."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105021540541",
+      "title": "Next-Gen Finance: The role of fintech in shaping a smarter more accessible financial world",
+      "year": 2026,
+      "source": "EDPACS",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": false,
+      "doi": "10.1080/07366981.2025.2572226",
+      "url": "https://doi.org/10.1080/07366981.2025.2572226",
+      "authorIds": [
+        "57419925200",
+        "59345181100",
+        "60190964700"
+      ],
+      "authors": [
+        "Lulaj E.",
+        "Lulaj D.",
+        "Pila R."
+      ],
+      "sdgs": [
+        8,
+        9,
+        10
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85120068387",
+      "title": "Traditional and flipped learning: Which enhances students’ academic performance better?",
+      "year": 2022,
+      "source": "International Journal of Information and Education Technology",
+      "type": "Article",
+      "citations": 12,
+      "openAccess": true,
+      "doi": "10.18178/ijiet.2022.12.1.1586",
+      "url": "https://doi.org/10.18178/ijiet.2022.12.1.1586",
+      "authorIds": [
+        "58968906900",
+        "6602077243"
+      ],
+      "authors": [
+        "Sablan J.R.",
+        "Prudente M."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044161293",
+      "title": "Analysis of Emerging Research Frontiers in Philippine Materials Science Research",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569053",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569053",
+      "authorIds": [
+        "57219493889",
+        "57374415700",
+        "60728823400",
+        "60728705200"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Tucio P.B.",
+        "Custodio M.C.",
+        "Martinez J.L.A."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159416436",
+      "title": "Washington Accord - Congruent Balanced Scorecard for Electronics Engineering Educational Management Using Structural Equation Modeling",
+      "year": 2022,
+      "source": "2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2022",
+      "type": "Conference paper",
+      "citations": 4,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM57413.2022.10109410",
+      "url": "https://doi.org/10.1109/HNICEM57413.2022.10109410",
+      "authorIds": [
+        "57216806603",
+        "58251981700"
+      ],
+      "authors": [
+        "Recto K.H.A.",
+        "Timajo W.L."
+      ],
+      "sdgs": [
+        4,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85170699129",
+      "title": "GAMIFICATION OF STATISTICS AND PROBABILITY EDUCATION: A MOBILE COURSEWARE APPROACH",
+      "year": 2023,
+      "source": "Journal of Information Technology Education: Innovations in Practice",
+      "type": "Article",
+      "citations": 4,
+      "openAccess": true,
+      "doi": "10.28945/5179",
+      "url": "https://doi.org/10.28945/5179",
+      "authorIds": [
+        "58573529800"
+      ],
+      "authors": [
+        "Magat R.B., Jr"
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85187256358",
+      "title": "Chasing the Break: Tracing the Full Evolution of a Black Hole X-Ray Binary Jet with Multiwavelength Spectral Modeling",
+      "year": 2024,
+      "source": "Astrophysical Journal",
+      "type": "Article",
+      "citations": 24,
+      "openAccess": true,
+      "doi": "10.3847/1538-4357/ad1a10",
+      "url": "https://doi.org/10.3847/1538-4357/ad1a10",
+      "authorIds": [
+        "58745130600",
+        "56658751100",
+        "58370708300",
+        "55958173000",
+        "55609177600",
+        "55211969300",
+        "57207965737",
+        "55348923700",
+        "7101698375",
+        "9536432200",
+        "14036287700",
+        "15821780400",
+        "55918237400",
+        "57204265195",
+        "50660994600",
+        "7006756781",
+        "8558739800",
+        "6602249725",
+        "57208104796",
+        "7101964055",
+        "7005138927",
+        "57203077633",
+        "55580882000",
+        "55887583400",
+        "26532856900",
+        "57205682384",
+        "6701324987",
+        "55921828700",
+        "10044231400",
+        "7404696595",
+        "56678417700",
+        "7005153201",
+        "7003959903",
+        "57209300208",
+        "7006241401",
+        "9533045900",
+        "57118189400",
+        "14820006000"
+      ],
+      "authors": [
+        "Echiburú-Trujillo C.",
+        "Tetarenko A.J.",
+        "Haggard D.",
+        "Russell T.D.",
+        "Koljonen K.I.I.",
+        "Bahramian A.",
+        "Wang J.",
+        "Bremer M.",
+        "Bright J.",
+        "Casella P.",
+        "Russell D.M.",
+        "Altamirano D.",
+        "Baglio M.C.",
+        "Belloni T.",
+        "Ceccobello C.",
+        "Corbel S.",
+        "Diaz Trigo M.",
+        "Maitra D.",
+        "Gabuya A.",
+        "Gallo E.",
+        "Heinz S.",
+        "Homan J.",
+        "Kara E.",
+        "Körding E.",
+        "Lewis F.",
+        "Lucchini M.",
+        "Markoff S.",
+        "Migliari S.",
+        "Miller-Jones J.C.A.",
+        "Rodriguez J.",
+        "Saikia P.",
+        "Sarazin C.L.",
+        "Shahbaz T.",
+        "Sivakoff G.",
+        "Soria R.",
+        "Testa V.",
+        "Tetarenko B.E.",
+        "Tudose V."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85133212648",
+      "title": "Experiential Learning and Job Satisfaction of Students in a Technological University in the Philippines",
+      "year": 2022,
+      "source": "Journal of Technical Education and Training",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": true,
+      "doi": "10.30880/jtet.2022.14.01.003",
+      "url": "https://doi.org/10.30880/jtet.2022.14.01.003",
+      "authorIds": [
+        "57772620800"
+      ],
+      "authors": [
+        "Montalbo A."
+      ],
+      "sdgs": [
+        4,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85130248325",
+      "title": "Preliminary Studies on Recovering Communities from Typhoon using Radiance Measurement from VIIRS",
+      "year": 2021,
+      "source": "International Conference on Space Science and Communication, IconSpace",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/IconSpace53224.2021.9768701",
+      "url": "https://doi.org/10.1109/IconSpace53224.2021.9768701",
+      "authorIds": [
+        "57697348600",
+        "57219493889"
+      ],
+      "authors": [
+        "Dasco M.L.B.P.",
+        "Manuel Guido R."
+      ],
+      "sdgs": [
+        11,
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105039767307",
+      "title": "Safeguarding faculty retention through mentoring: basis for mentoring framework development",
+      "year": 2026,
+      "source": "Mentoring and Tutoring: Partnership in Learning",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1080/13611267.2026.2676572",
+      "url": "https://doi.org/10.1080/13611267.2026.2676572",
+      "authorIds": [
+        "59981066200",
+        "59980734000"
+      ],
+      "authors": [
+        "Callueng R.Z.",
+        "Moreno N.I."
+      ],
+      "sdgs": [
+        4,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030132899",
+      "title": "Modeling the Research Performance of Philippine SDG4: Analyzing Trends and Impact in Education for Sustainable Development",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258735",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258735",
+      "authorIds": [
+        "57219493889",
+        "60026859400",
+        "60395922900"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Quendangan M.M.",
+        "Villavicencio J.-A.F."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "explicit"
+    },
+    {
+      "id": "2-s2.0-105025709933",
+      "title": "Tracking optical variability and outflows across the accretion states of the black hole transient MAXI J1820+070",
+      "year": 2025,
+      "source": "Astronomy and Astrophysics",
+      "type": "Article",
+      "citations": 3,
+      "openAccess": true,
+      "doi": "10.1051/0004-6361/202556699",
+      "url": "https://doi.org/10.1051/0004-6361/202556699",
+      "authorIds": [
+        "55918237400",
+        "57219739254",
+        "14036287700",
+        "57841838400",
+        "56938506000",
+        "11241870700",
+        "57190813460",
+        "57215187996",
+        "56678417700",
+        "57208104796",
+        "6603966425",
+        "57208100454",
+        "57208100876"
+      ],
+      "authors": [
+        "Baglio M.C.",
+        "Alabarta K.",
+        "Russell D.M.",
+        "Masetti N.",
+        "Messa M.M.",
+        "Muñoz Darias T.",
+        "Vincentelli F.M.",
+        "Rout S.K.",
+        "Saikia P.",
+        "Gabuya A.",
+        "Chavushyan V.",
+        "Al Qaissieh T.",
+        "Palado A."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105006992729",
+      "title": "THE RE-EMERGENCE OF PARANG SABIL: A FOUCAULDIAN DISCOURSE ANALYSIS ON SUICIDE TERRORISM PHENOMENON IN THE PHILIPPINES",
+      "year": 2023,
+      "source": "Malaysian Journal of International Relations",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.22452/mjir.vol11no1.3",
+      "url": "https://doi.org/10.22452/mjir.vol11no1.3",
+      "authorIds": [
+        "59923280800",
+        "59923181500"
+      ],
+      "authors": [
+        "Licayan K.P.",
+        "Esteban F.M."
+      ],
+      "sdgs": [
+        16
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85130278021",
+      "title": "Preliminary Observations of Cold-Point Tropopause Temperature, Altitude, and Pressure in 2020 over Laoag, Philippines Using Radiosonde",
+      "year": 2021,
+      "source": "International Conference on Space Science and Communication, IconSpace",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/IconSpace53224.2021.9768713",
+      "url": "https://doi.org/10.1109/IconSpace53224.2021.9768713",
+      "authorIds": [
+        "57219493889",
+        "6506168253",
+        "57697346900",
+        "57374415700",
+        "57697972100"
+      ],
+      "authors": [
+        "Guido R.M.",
+        "MacAlalad E.",
+        "Kalaw J.",
+        "Tucio P.",
+        "Divinagracia P.P."
+      ],
+      "sdgs": [
+        13
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85183848048",
+      "title": "GAMIFIED MOBILE APPS’ IMPACT ON ACADEMIC PERFORMANCE OF GRADE 8 IN A MAINSTREAM PHYSICS CLASS",
+      "year": 2023,
+      "source": "Journal of Information Technology Education: Research",
+      "type": "Article",
+      "citations": 8,
+      "openAccess": true,
+      "doi": "10.28945/5201",
+      "url": "https://doi.org/10.28945/5201",
+      "authorIds": [
+        "60519737200",
+        "57678585000",
+        "58860103200",
+        "58859353500"
+      ],
+      "authors": [
+        "Abenes F.M.D.",
+        "Caballes D.G.",
+        "Balbin S.A.",
+        "Conwi X.L."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105030541796",
+      "title": "Evaluation of Faculty Modeling System using Modified Technology Acceptance Model",
+      "year": 2025,
+      "source": "International Conference on ICT and Knowledge Engineering",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/ICTKE67052.2025.11274446",
+      "url": "https://doi.org/10.1109/ICTKE67052.2025.11274446",
+      "authorIds": [
+        "57201649104",
+        "58489540500",
+        "59946056100",
+        "60214404600",
+        "60406678600",
+        "60406907000"
+      ],
+      "authors": [
+        "Lagman A.C.",
+        "Sabonsolin J.A.",
+        "Canlas R.B.",
+        "Constantino R.J.",
+        "Villanueva J.A.",
+        "Soriano M.A."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105012375308",
+      "title": "Astronomy and astrophysics publication research metrics among southeast Asian countries",
+      "year": 2025,
+      "source": "SciEnggJ",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.54645/202518SUPNBV-45",
+      "url": "https://doi.org/10.54645/202518SUPNBV-45",
+      "authorIds": [
+        "57219493889"
+      ],
+      "authors": [
+        "Guido R.M.D."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85159434957",
+      "title": "Night-time Human Mobility during Pandemic in the Philippines as Observed by VIIRS Satellite",
+      "year": 2022,
+      "source": "2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2022",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM57413.2022.10109385",
+      "url": "https://doi.org/10.1109/HNICEM57413.2022.10109385",
+      "authorIds": [
+        "57219493889"
+      ],
+      "authors": [
+        "Guido R.M."
+      ],
+      "sdgs": [
+        11,
+        3
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85216832220",
+      "title": "#EduTok: A qualitative content analysis of grammar-related TikTok videos as nano-learning tools",
+      "year": 2025,
+      "source": "International Journal of Language Studies",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.5281/zenodo.14524999",
+      "url": "https://doi.org/10.5281/zenodo.14524999",
+      "authorIds": [
+        "59540972800",
+        "59541263500"
+      ],
+      "authors": [
+        "Pagal D.G.C.",
+        "Bosque A.U."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85182275382",
+      "title": "Polycyclic aromatic hydrocarbon luminous galaxies in JWST CEERS data",
+      "year": 2024,
+      "source": "Monthly Notices of the Royal Astronomical Society",
+      "type": "Article",
+      "citations": 10,
+      "openAccess": true,
+      "doi": "10.1093/mnras/stad3984",
+      "url": "https://doi.org/10.1093/mnras/stad3984",
+      "authorIds": [
+        "57846419000",
+        "57225942476",
+        "57218284891",
+        "57151800100",
+        "57070819300",
+        "55961627300",
+        "24518043000",
+        "57543053100",
+        "57216812477",
+        "57218282309",
+        "57782698500",
+        "57783030000"
+      ],
+      "authors": [
+        "Lin Y.-W.",
+        "Wu C.K.-W.",
+        "Ling C.-T.",
+        "Goto T.",
+        "Kim S.J.",
+        "Kilerci E.",
+        "Hashimoto T.",
+        "Wang P.-Y.",
+        "Ho S.C.-C.",
+        "Hsiao T.Y.-Y.",
+        "Raquel B.J.R.",
+        "Uno Y."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105052633529",
+      "title": "The mediating role of academic motivation in the relationship between research competency and research difficulty among higher education students",
+      "year": 2026,
+      "source": "Discover Education",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1007/s44217-026-01729-x",
+      "url": "https://doi.org/10.1007/s44217-026-01729-x",
+      "authorIds": [
+        "60975789300",
+        "60975643500",
+        "60974755700",
+        "60975049400"
+      ],
+      "authors": [
+        "Rodriguez J.M.P.",
+        "Sergote J.F.",
+        "Flores G.C.",
+        "Flores J.J.M."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85183834285",
+      "title": "Remote assessment of learning during the pandemic: junior high school teachers’ experiences",
+      "year": 2024,
+      "source": "International Journal of Evaluation and Research in Education ",
+      "type": "Article",
+      "citations": 2,
+      "openAccess": true,
+      "doi": "10.11591/ijere.v13i2.25973",
+      "url": "https://doi.org/10.11591/ijere.v13i2.25973",
+      "authorIds": [
+        "57283858600",
+        "58860545500",
+        "58860545600"
+      ],
+      "authors": [
+        "Garcia R.E.",
+        "Macaballug M.E.R.",
+        "Perez E.I."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105002420303",
+      "title": "Strengthening future educators: How school climate shapes academic resilience in Physical Education teacher education students; [Fortaleciendo a los futuros educadores: Cómo el clima escolar moldea la resiliencia académica en los estudiantes de formación docente de Educación Física]",
+      "year": 2025,
+      "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+      "type": "Article",
+      "citations": 4,
+      "openAccess": true,
+      "doi": "10.17979/sportis.2025.11.2.11366",
+      "url": "https://doi.org/10.17979/sportis.2025.11.2.11366",
+      "authorIds": [
+        "58992182300",
+        "58187127300",
+        "58812903300",
+        "58076149800",
+        "59261506300",
+        "59504652900",
+        "59505505400",
+        "59504869900",
+        "59504441900",
+        "59733510200",
+        "59733153900",
+        "58642430000",
+        "57204263812",
+        "58640251600"
+      ],
+      "authors": [
+        "Panganiban T.D.",
+        "Tagare R.L., Jr.",
+        "Aquino J.M.D.",
+        "Prevandos F.G.",
+        "Mañalac E.R.",
+        "Payumo A.S.",
+        "Sinag J.M.D.",
+        "Quibral J.P.",
+        "Longakit J.C.",
+        "Garcia A.L., Jr.",
+        "Ballera J.D.",
+        "Celestial E.F.",
+        "Setiawan E.",
+        "Lobo J."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85160944984",
+      "title": "Identifying cluster members of NGC 869 and NGC 884 using a combined machine learning method",
+      "year": 2023,
+      "source": "IOP Conference Series: Earth and Environmental Science",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.1088/1755-1315/1167/1/012010",
+      "url": "https://doi.org/10.1088/1755-1315/1167/1/012010",
+      "authorIds": [
+        "57219493889",
+        "57374415700",
+        "57697346900",
+        "58300103700"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Tucio P.B.",
+        "Kalaw J.B.",
+        "Geraldo L.E."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105030156716",
+      "title": "Exploring Trends in Electrical and Electronics Engineering Research in the Philippines: Towards a Collaborative Networks",
+      "year": 2024,
+      "source": "2024 IEEE 16th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2024",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM64917.2024.11258823",
+      "url": "https://doi.org/10.1109/HNICEM64917.2024.11258823",
+      "authorIds": [
+        "57219493889",
+        "60397282400",
+        "60395542800",
+        "57697346900"
+      ],
+      "authors": [
+        "Guido R.M.D.",
+        "Dichoso R.",
+        "Punzalan J.",
+        "Kalaw J.B."
+      ],
+      "sdgs": [
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105044082370",
+      "title": "Scientometric Analysis of Research on Sustainable Cities and Communities: Monitoring Research Progress Toward SDG 11",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569210",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569210",
+      "authorIds": [
+        "57697346900",
+        "57219493889",
+        "58251782600",
+        "60395067500"
+      ],
+      "authors": [
+        "Kalaw J.",
+        "Guido R.M.",
+        "Santos G.P.A.",
+        "Castillon F.A.G."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "explicit"
+    },
+    {
+      "id": "2-s2.0-105044223968",
+      "title": "A Comparative Analysis of Research Performance in Organizational Behavior and Human Resource Management among Southeast Asian Countries: Exploring Philippine Research Culture",
+      "year": 2025,
+      "source": "2025 IEEE 17th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, HNICEM 2025",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.1109/HNICEM69498.2025.11569311",
+      "url": "https://doi.org/10.1109/HNICEM69498.2025.11569311",
+      "authorIds": [
+        "60728823000",
+        "57219493889",
+        "60728705100",
+        "60728784500"
+      ],
+      "authors": [
+        "Tria K.D.",
+        "Guido R.M.D.",
+        "Opulencia K.Y.",
+        "Ducut R.L."
+      ],
+      "sdgs": [
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105033737451",
+      "title": "From Plans to Practice: Preservice Mathematics Teachers’ Journey to Conceptual Understanding",
+      "year": 2026,
+      "source": "Australian Journal of Teacher Education",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.14221/1835-517X.7172",
+      "url": "https://doi.org/10.14221/1835-517X.7172",
+      "authorIds": [
+        "58573529800"
+      ],
+      "authors": [
+        "Magat R.B."
+      ],
+      "sdgs": [
+        4
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-85159947240",
+      "title": "Constraining the Hubble constant and its lower limit from the proper motion of extragalactic radio jets",
+      "year": 2022,
+      "source": "Monthly Notices of the Royal Astronomical Society",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.1093/mnras/stac2613",
+      "url": "https://doi.org/10.1093/mnras/stac2613",
+      "authorIds": [
+        "57218282309",
+        "57151800100",
+        "24518043000",
+        "57218278835",
+        "57191345120",
+        "57070819300",
+        "57782698500",
+        "57216812477",
+        "57221833663",
+        "55961627300",
+        "57207966444",
+        "57214263438",
+        "57846419000",
+        "57225942476"
+      ],
+      "authors": [
+        "Hsiao T.Y.-Y.",
+        "Goto T.",
+        "Hashimoto T.",
+        "Santos D.J.D.",
+        "Wong Y.H.V.",
+        "Kim S.J.",
+        "Raquel B.J.R.",
+        "Ho S.C.-C.",
+        "Chen B.-H.",
+        "Kilerci E.",
+        "Lu T.-Y.",
+        "On A.Y.L.",
+        "Lin Y.-W.",
+        "Wu C.K.-W."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85129003354",
+      "title": "Rare earths in Philippine phosphogypsum: Use them or lose them",
+      "year": 2022,
+      "source": "Extractive Industries and Society",
+      "type": "Note",
+      "citations": 19,
+      "openAccess": false,
+      "doi": "10.1016/j.exis.2022.101082",
+      "url": "https://doi.org/10.1016/j.exis.2022.101082",
+      "authorIds": [
+        "57202367167",
+        "57202367516",
+        "56904221200",
+        "56078541300",
+        "56904159300",
+        "55782684000",
+        "56160686500"
+      ],
+      "authors": [
+        "Ramirez J.D.",
+        "Diwa R.R.",
+        "Palattao B.L.",
+        "Haneklaus N.H.",
+        "Tabora E.U.",
+        "Bautista A.T., VII",
+        "Reyes R.Y."
+      ],
+      "sdgs": [
+        12,
+        9
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105009992638",
+      "title": "Exploring Technical Vocational Teacher Education: Inputs to Curriculum Model Development",
+      "year": 2025,
+      "source": "Journal of Technical Education and Training",
+      "type": "Article",
+      "citations": 1,
+      "openAccess": true,
+      "doi": "10.30880/jtet.2025.17.02.006",
+      "url": "https://doi.org/10.30880/jtet.2025.17.02.006",
+      "authorIds": [
+        "59980734000",
+        "59981066200",
+        "57219878094"
+      ],
+      "authors": [
+        "Moreno N.I.",
+        "Callueng R.Z.",
+        "Portez A.P."
+      ],
+      "sdgs": [
+        4,
+        8
+      ],
+      "sdgBasis": "assigned"
+    },
+    {
+      "id": "2-s2.0-105012390510",
+      "title": "Orbital evolution of R Aquarii",
+      "year": 2025,
+      "source": "SciEnggJ",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.54645/202518SUPRMV-19",
+      "url": "https://doi.org/10.54645/202518SUPRMV-19",
+      "authorIds": [
+        "57374415700",
+        "57216802098",
+        "17345922900"
+      ],
+      "authors": [
+        "Tucio P.B.",
+        "Deocaris C.",
+        "Kouwenhoven M.B.N."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85130229049",
+      "title": "Ionospheric Storm Caused in 2015 by Intense Geomagnetic Storms over Metro Manila, Philippines",
+      "year": 2021,
+      "source": "International Conference on Space Science and Communication, IconSpace",
+      "type": "Conference paper",
+      "citations": 1,
+      "openAccess": false,
+      "doi": "10.1109/IconSpace53224.2021.9768676",
+      "url": "https://doi.org/10.1109/IconSpace53224.2021.9768676",
+      "authorIds": [
+        "57697346900",
+        "6506168253",
+        "57219493889",
+        "57374415700",
+        "57697972100"
+      ],
+      "authors": [
+        "Kalaw J.",
+        "MacAlalad E.",
+        "Guido R.M.",
+        "Tucio P.",
+        "Divinagracia P.P."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85160935750",
+      "title": "Distance pattern and spacing of the multiplanet systems in TESS data",
+      "year": 2023,
+      "source": "IOP Conference Series: Earth and Environmental Science",
+      "type": "Conference paper",
+      "citations": 0,
+      "openAccess": true,
+      "doi": "10.1088/1755-1315/1167/1/012005",
+      "url": "https://doi.org/10.1088/1755-1315/1167/1/012005",
+      "authorIds": [
+        "58235433000",
+        "57937196700"
+      ],
+      "authors": [
+        "Geraldo L.D.",
+        "Bautista R.A.B."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-85139267693",
+      "title": "BURSTT: Bustling Universe Radio Survey Telescope in Taiwan",
+      "year": 2022,
+      "source": "Publications of the Astronomical Society of the Pacific",
+      "type": "Article",
+      "citations": 66,
+      "openAccess": true,
+      "doi": "10.1088/1538-3873/ac8f71",
+      "url": "https://doi.org/10.1088/1538-3873/ac8f71",
+      "authorIds": [
+        "57015797900",
+        "43361314500",
+        "7501686171",
+        "7202710962",
+        "35177706000",
+        "23037266600",
+        "57193579238",
+        "7005890052",
+        "57137032900",
+        "57222564782",
+        "59652840700",
+        "57151800100",
+        "24518043000",
+        "7402311428",
+        "26428874100",
+        "24474502900",
+        "16028957100",
+        "57783685400",
+        "35225869700",
+        "25823175800",
+        "57782868000",
+        "57782868100",
+        "55750919700",
+        "57783029900",
+        "7006319230",
+        "57143005200",
+        "57783357900",
+        "57355129100",
+        "55956833200",
+        "36349121000",
+        "57191276434",
+        "57216812477",
+        "57218282309",
+        "35226513500",
+        "7501580011",
+        "56024423900",
+        "57070819300",
+        "24449062500",
+        "57783685600",
+        "57214263438",
+        "54790597800",
+        "57915295300",
+        "59342072900",
+        "57783030000",
+        "57225942476",
+        "57146494100",
+        "56371898200"
+      ],
+      "authors": [
+        "Lin H.-H.",
+        "Lin K.-Y.",
+        "Li C.-T.",
+        "Tseng Y.-H.",
+        "Jiang H.",
+        "Wang J.-H.",
+        "Cheng J.-C.",
+        "Pen U.-L.",
+        "Chen M.-T.",
+        "Chen P.",
+        "Chen Y.",
+        "Goto T.",
+        "Hashimoto T.",
+        "Hwang Y.-J.",
+        "King S.-K.",
+        "Kubo D.",
+        "Kuo C.-Y.",
+        "Mills A.",
+        "Nam J.",
+        "Oshiro P.",
+        "Shen C.-S.",
+        "Tseng H.-C.",
+        "Wang S.-H.",
+        "Wu V.F.",
+        "Bower G.",
+        "Chang S.-H.",
+        "Chen P.-A.",
+        "Chen Y.-C.",
+        "Chiang Y.-K.",
+        "Fedynitch A.",
+        "Gusinskaia N.",
+        "Ho S.C.",
+        "Hsiao T.Y.",
+        "Hu C.-P.",
+        "Huang Y.D.",
+        "Jáuregui García J.M.",
+        "Kim S.J.",
+        "Kuo C.-Y.",
+        "Ling D.F.",
+        "On A.Y.L.",
+        "Peterson J.B.",
+        "R. Raquel B.J.",
+        "Su S.-C.",
+        "Uno Y.",
+        "Wu C.K.",
+        "Yamasaki S.",
+        "Zhu H.-M."
+      ],
+      "sdgs": [],
+      "sdgBasis": "unmapped"
+    },
+    {
+      "id": "2-s2.0-105042498393",
+      "title": "Social and Cultural Competencies of Sikaran; [Kompetencje społeczne i kulturowe w Sikaran]",
+      "year": 2026,
+      "source": "Ido Movement for Culture",
+      "type": "Article",
+      "citations": 0,
+      "openAccess": false,
+      "doi": "10.14589/ido.26.3.10",
+      "url": "https://doi.org/10.14589/ido.26.3.10",
+      "authorIds": [
+        "60702072300"
+      ],
+      "authors": [
+        "Umali V.D."
+      ],
+      "sdgs": [
+        11
+      ],
+      "sdgBasis": "assigned"
+    }
+  ],
+  "authors": [
+    {
+      "id": "59478094300",
+      "name": "Galut, Arnel",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728717100",
+      "name": "Tivoli, Michael Jordan L.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728658200",
+      "name": "Garrote, Darwin F.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "59220285500",
+      "name": "Alabado, Matthew Emmanuel Y.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60406678600",
+      "name": "Villanueva, Jaevier A.",
+      "documents": 3,
+      "orcid": ""
+    },
+    {
+      "id": "58860103200",
+      "name": "Balbin, Samuel A.",
+      "documents": 3,
+      "orcid": ""
+    },
+    {
+      "id": "57937344800",
+      "name": "Lequiron, John Christian",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57937783000",
+      "name": "Cortez, Ajcelle Krich",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60739030600",
+      "name": "Reyes, Laurence B.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60586304300",
+      "name": "Castillo, Rizzsa Lou M.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60396058100",
+      "name": "Vocal, Marirose V.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60346297200",
+      "name": "Fojas, Julian Grace",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58235433000",
+      "name": "Geraldo, Lhevy D.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "57772620800",
+      "name": "Montalbo, Agnes",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728936300",
+      "name": "Villanueva, Kristine Ann S.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60519643900",
+      "name": "Fernandez, Michael M.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60026859400",
+      "name": "Quendangan, Magno M.",
+      "documents": 4,
+      "orcid": ""
+    },
+    {
+      "id": "60702072300",
+      "name": "Umali, Vannessa D.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "59981066200",
+      "name": "Callueng, Romelyn Z.",
+      "documents": 2,
+      "orcid": "0009-0001-2412-6156"
+    },
+    {
+      "id": "15058875000",
+      "name": "Bernal, Merlene M.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728784500",
+      "name": "Ducut, Rodolfo L.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58251981700",
+      "name": "Timajo, Wilfredo L.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60813073900",
+      "name": "Zhao, Shuangwen",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57208104796",
+      "name": "Gabuya, Aldrin B.",
+      "documents": 6,
+      "orcid": ""
+    },
+    {
+      "id": "60261642200",
+      "name": "Gumiran, Irene C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58300103700",
+      "name": "Geraldo, L. E.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60039396900",
+      "name": "Mendoza, Jhomar F.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728658100",
+      "name": "Zantua, Jose P.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60549533600",
+      "name": "Tabuena, Alchiny Cortezo",
+      "documents": 1,
+      "orcid": "0009-0003-5385-1167"
+    },
+    {
+      "id": "60396817900",
+      "name": "Pagaura, Junver J.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58983604800",
+      "name": "de Castro, Arvee M.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60975789300",
+      "name": "Rodriguez, Joel Mark P.",
+      "documents": 2,
+      "orcid": "0009-0009-7195-8164"
+    },
+    {
+      "id": "59504869900",
+      "name": "Quibral, Jeric P.",
+      "documents": 7,
+      "orcid": "0009-0001-9650-5315"
+    },
+    {
+      "id": "58251782600",
+      "name": "Santos, Gian Paulo A.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "57915295300",
+      "name": "R Raquel, Bjorn Jasper",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60190964700",
+      "name": "Pila, Rowena",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60395067500",
+      "name": "Castillon, Franchette Amabelle G.",
+      "documents": 4,
+      "orcid": ""
+    },
+    {
+      "id": "59505288200",
+      "name": "Mondido, Christian Alex",
+      "documents": 4,
+      "orcid": "0009-0009-8040-6548"
+    },
+    {
+      "id": "58573529800",
+      "name": "Magat, Rolando B.",
+      "documents": 2,
+      "orcid": "0000-0003-4412-3590"
+    },
+    {
+      "id": "60975049400",
+      "name": "Flores, John Jarold M.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "58968906900",
+      "name": "Sablan, Jack Robert Blanco",
+      "documents": 2,
+      "orcid": "0009-0004-7651-569X"
+    },
+    {
+      "id": "59540972800",
+      "name": "Pagal, Divine Grace Cabiles",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60039263800",
+      "name": "Anthony, Philip P.Fernandez",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57374415700",
+      "name": "Tucio, Princess Barreo",
+      "documents": 19,
+      "orcid": ""
+    },
+    {
+      "id": "60728936200",
+      "name": "Juales, Emerson B.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57283418500",
+      "name": "Alcantara, Nida V.",
+      "documents": 1,
+      "orcid": "0000-0001-6028-1471"
+    },
+    {
+      "id": "60345607900",
+      "name": "Habol, Charmanie",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60439230900",
+      "name": "Alcantara, Marvic",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57937196700",
+      "name": "Bautista, Rose Ann B.",
+      "documents": 4,
+      "orcid": ""
+    },
+    {
+      "id": "60395542800",
+      "name": "Punzalan, Jaymer",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "59220054200",
+      "name": "Quillope, Ann Hera",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728889900",
+      "name": "Gabog, Sarah April R.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60538879300",
+      "name": "Cueto, John Rovic",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57697346900",
+      "name": "Kalaw, Jason B.",
+      "documents": 13,
+      "orcid": ""
+    },
+    {
+      "id": "59467119000",
+      "name": "Diaz, Juan Paulo P.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60395922900",
+      "name": "Villavicencio, Jay Ar F.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "59980734000",
+      "name": "Moreno, Nilmar I.",
+      "documents": 2,
+      "orcid": "0000-0003-4824-7793"
+    },
+    {
+      "id": "60519468500",
+      "name": "Verdadero, Ethelyn C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60038709900",
+      "name": "Bejo, Micah C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57697972100",
+      "name": "Divinagracia, Pauline Pearl",
+      "documents": 4,
+      "orcid": ""
+    },
+    {
+      "id": "59220611300",
+      "name": "Cueto, Jann Rovic",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "60883067200",
+      "name": "Santiago, Emmanuelle A.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58859353500",
+      "name": "Conwi, Xides Leonore",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "59487569000",
+      "name": "Olohoy, Michael Kent A.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "36909375100",
+      "name": "Anit, Jovita A.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60346018800",
+      "name": "Orapa, Lodie",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60519737200",
+      "name": "Abenes, Faith Micah D.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "59183461600",
+      "name": "Bustarde, Jamielou",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60735452400",
+      "name": "Orig, Ma Schanine D.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60395034400",
+      "name": "Rey, Aleli N.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "60397670600",
+      "name": "Ayuste, Cheryl Lyn C.",
+      "documents": 3,
+      "orcid": ""
+    },
+    {
+      "id": "60039263900",
+      "name": "Gotoman, Luiginer R.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58860545500",
+      "name": "Macaballug, Monica Elaijan R.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60974755700",
+      "name": "Flores, Gabriela C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "59478311900",
+      "name": "Obras, Johanne Mae",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728705200",
+      "name": "Martinez, Jake Louie A.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60397805000",
+      "name": "Sumpingan, Hammida S.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60735347200",
+      "name": "Daguplo, Gerald V.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60039397000",
+      "name": "Andres, Shanley Mae T.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58251851300",
+      "name": "Villanueva, Mykl A.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57283418400",
+      "name": "Abaratigue, Anjo M.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58983770600",
+      "name": "Bibaoco, Andrei V.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728823300",
+      "name": "Abillar, Kyla S.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "60285283800",
+      "name": "Garcia, Danica",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "60728589400",
+      "name": "Gabon, Dan Christian L.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57283858600",
+      "name": "Garcia, Rizaldy Escobar",
+      "documents": 7,
+      "orcid": ""
+    },
+    {
+      "id": "58884985400",
+      "name": "Orchiston, Wayne",
+      "documents": 4,
+      "orcid": ""
+    },
+    {
+      "id": "59831737600",
+      "name": "Olea, Melanio T.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728538500",
+      "name": "Pasion, Jay R.D.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58202424900",
+      "name": "Buraga, Jeremias F.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58202665600",
+      "name": "Delos Santos, Andres R.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "36543052100",
+      "name": "Pulma, Carnette C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728756600",
+      "name": "Bravo, Corleto R.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "57374234500",
+      "name": "Dela Cruz, Ruby Ann B.",
+      "documents": 5,
+      "orcid": ""
+    },
+    {
+      "id": "36543013700",
+      "name": "Quilang, Alexander B.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60346018700",
+      "name": "Formanes, Jeff Nicole",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60975643500",
+      "name": "Sergote, Jessie F.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "58482090200",
+      "name": "Capuli, Generich H.",
+      "documents": 7,
+      "orcid": "0000-0003-1253-7043"
+    },
+    {
+      "id": "60758072000",
+      "name": "Mangilaya, Vicente Mari",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "58860545600",
+      "name": "Perez, Edilberto I.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728705100",
+      "name": "Opulencia, Kristine Y.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "60511293700",
+      "name": "Lampara, Exedy C.",
+      "documents": 1,
+      "orcid": "0000-0002-1828-7412"
+    },
+    {
+      "id": "58251851200",
+      "name": "Crisostomo, Leonila C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60261839600",
+      "name": "Ambida, Melvin N.",
+      "documents": 1,
+      "orcid": "0009-0007-9024-6491"
+    },
+    {
+      "id": "60397282400",
+      "name": "Dichoso, Ruben",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728823400",
+      "name": "Custodio, Margareth C.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "59478205300",
+      "name": "de Asis, Allysa Maxine",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728823000",
+      "name": "Tria, Kathryn D.",
+      "documents": 2,
+      "orcid": ""
+    },
+    {
+      "id": "57218551595",
+      "name": "Narvarte, Bienson Ceasar V.",
+      "documents": 17,
+      "orcid": ""
+    },
+    {
+      "id": "57219493889",
+      "name": "Guido, Ryan Manuel",
+      "documents": 31,
+      "orcid": "0000-0002-2045-6510"
+    },
+    {
+      "id": "57697348600",
+      "name": "Dasco, Ma Luisa Bernadet P.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60728538600",
+      "name": "Pelagio, Michael B.",
+      "documents": 1,
+      "orcid": ""
+    },
+    {
+      "id": "60397371200",
+      "name": "Sol, King Fredrick J.",
+      "documents": 1,
+      "orcid": ""
+    }
+  ],
+  "presentation": {
+    "title": "Terminal Report on Research Accomplishments",
+    "asOf": "6 October 2026",
+    "period": "2019–October 2026",
+    "publications": 110,
+    "citations": 315,
+    "authors": 105,
+    "partnerCountries": 36,
+    "openAccess": 54,
+    "fundedStudies": 39,
+    "rtuFundedStudies": 12,
+    "hIndex": 8,
+    "trend": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "publications": [
+        2,
+        0,
+        9,
+        16,
+        8,
+        20,
+        38,
+        17
+      ],
+      "citations": [
+        51,
+        0,
+        26,
+        96,
+        44,
+        50,
+        42,
+        6
+      ]
+    },
+    "targets2029": [
+      {
+        "indicator": "Annual Scopus-indexed publications",
+        "baseline": "38 (2025)",
+        "target": "≥ 50"
+      },
+      {
+        "indicator": "Journal article share",
+        "baseline": "50%",
+        "target": "≥ 70%"
+      },
+      {
+        "indicator": "International collaboration share",
+        "baseline": "18%",
+        "target": "≥ 30%"
+      },
+      {
+        "indicator": "Open-access share",
+        "baseline": "49%",
+        "target": "≥ 65%"
+      },
+      {
+        "indicator": "Annual active RTU authors",
+        "baseline": "56 (2025)",
+        "target": "≥ 80"
+      },
+      {
+        "indicator": "Funded publication share",
+        "baseline": "35%",
+        "target": "≥ 50%"
+      },
+      {
+        "indicator": "Publications naming an RTU unit",
+        "baseline": "74%",
+        "target": "100%"
+      }
+    ]
+  }
+}
